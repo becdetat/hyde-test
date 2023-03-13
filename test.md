@@ -1,9 +1,7 @@
 ---
-title: Test file for Hyde
-permalink: /test-file-for-hyde
-date: 2023-03-14
+title: A new title
+permalink: permalink
+date: 2023-12-14
 ---
-
-# Test file for hyde
-
-This is the content section of the file
+# Edited content
+Way-hey, this content has been edited
