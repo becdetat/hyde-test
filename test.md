@@ -1,7 +1,7 @@
 ---
-title: A new title
-permalink: permalink
-date: 2023-12-14
+title: Cesar
+permalink: Read
+date: 2023-03-15
 ---
 # Edited content
-Way-hey, this content has been edited
+Hey, newly edited content, i like it
